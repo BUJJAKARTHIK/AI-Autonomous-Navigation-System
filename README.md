@@ -60,8 +60,7 @@ python src/main.py
 
 ## 📂 Project Structure
 
-AI-Autonomous-Navigation-System/
-│
+AI-Autonomous-Navigation-System
 ├── src/
 ├── outputs/
 ├── docs/
