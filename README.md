@@ -24,3 +24,17 @@ The system intelligently finds the shortest path from start to goal while avoidi
 ## ▶️ How to Run
 ```bash
 python src/main.py
+
+## 🖼️ Project Screenshots
+
+### 🟢 Initial Grid
+![Grid](outputs/screenshots/grid.png)
+
+### ⬛ Obstacles
+![Obstacles](outputs/screenshots/obstacles.png)
+
+### 🔵 Path Planning
+![Path](outputs/screenshots/path.png)
+
+### ✅ Final Output
+![Final](outputs/screenshots/final.png)
