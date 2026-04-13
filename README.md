@@ -59,14 +59,15 @@ python src/main.py
 ---
 
 ## 📂 Project Structure
-
-AI-Autonomous-Navigation-System
-├── src/
-├── outputs/
-├── docs/
-├── README.md
-├── requirements.txt
-
+```
+AI-Autonomous-Navigation-System/
+|
+|-- src/
+|-- outputs/
+|-- docs/
+|-- README.md
+|-- requirements.txt
+```
 ---
 
 ## 🚀 Future Improvements
